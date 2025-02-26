@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.paragrafo {
+    text-indent: 10px;
+}
+button {
+    color: red;
+    background-color: white;
+    border-radius: 50%;
+}
