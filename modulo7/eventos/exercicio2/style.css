@@ -1,0 +1,30 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+#campoTarefa {
+    text-align: center;
+}
+
+#botaoAdd {
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
+
+#botaoAdd:hover {
+    background-color: lightblue;
+    color: black;
+    border-color: lightblue;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
