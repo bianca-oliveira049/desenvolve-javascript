@@ -1,0 +1,36 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #697D7B;
+}
+
+h1 {
+    font-weight: bolder;
+    box-shadow: 2px 2px 2px 0px black;
+    width: 500px;
+}
+
+#campoBusca {
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+    color: white;
+}
+
+#campoBusca::placeholder {
+    color: white;
+}
+#buscar {
+    background-color: #4B4952;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+}
+
+#resultado {
+    color: white;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: circle;
+}
